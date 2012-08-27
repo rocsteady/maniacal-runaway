@@ -1,4 +1,4 @@
-#test
+#Python program - needs more. Will use python for added filtering.
 import subprocess
 import re
 
