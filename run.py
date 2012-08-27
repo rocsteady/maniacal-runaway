@@ -1,6 +1,9 @@
 #!/usr/local/bin/python
-#Python program - needs more.
-#Candace Cheney
+"""
+ maniaical-runaway
+ 
+ Candace Cheney
+"""
 import subprocess
 import re
 
