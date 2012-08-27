@@ -1,1 +1,0 @@
-This program filters through processes, dumps root processes in a separate file called 'root-processes' and sends the rest to standard-out. Needs more added to it.
