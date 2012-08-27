@@ -1,4 +1,5 @@
-#Python program - needs more. Will use python for added filtering.
+#Python program - needs more.
+#Candace Cheney
 import subprocess
 import re
 
